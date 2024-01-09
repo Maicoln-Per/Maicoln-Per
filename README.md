@@ -11,7 +11,7 @@
 ### ***👨‍💻 Meu nome é Maicoln Pereira de Sousa, tenho 20 anos e moro em São Paulo.***
 ### ***🖥️ Formado em Desenvolvimento Web Java pelo Instituto PROA.***
 ### ***👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas.***
-### ***📚 Gosto muito de tecnologia e pretendo me especializar em desenvolvimento Back-end.***
+### ***📚 Apaixonado por tecnologia e atualmente estou com foco em estudar React, Java SpringBoot e SQL***
 
 ##
 
