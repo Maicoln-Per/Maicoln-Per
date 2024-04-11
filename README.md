@@ -62,9 +62,10 @@
 
 ### ***Onde me encontrar:***   
 <div style="display: inline_block"><br>
-  <a href="https://www.instagram.com/dev.maic/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:maicolnp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/maicoln-p-sousa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/dev.maic/" target="__blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:maicolnp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="__blank"></a>
+  <a href="https://www.linkedin.com/in/maicoln-p-sousa/" target="__blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=5511980339353" target="__blank"><img src="https://img.shields.io/badge/-Whatsapp-%2888234?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   
   <br>
 
